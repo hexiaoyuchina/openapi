@@ -118,6 +118,7 @@
        * [30.UpdateVPCBandwidthType](./私有网络概览.md#30updatevpcbandwidthtype)
        * [31.VPCBandWidthBillingScheme](./私有网络概览.md#31vpcbandwidthbillingscheme)
        * [32.VPCBandWidthUnitPrice](./私有网络概览.md#32vpcbandwidthunitprice)
+       * [33.DescribeNAT](./私有网络概览.md#33DescribeNAT)
      * [裸金属相关](https://github.com/capitalonline/openapi/blob/master/%E9%A6%96%E4%BA%91OpenAPI(v1.2).md#裸金属相关)
        * [1.DescribeBmsGoods](https://github.com/capitalonline/openapi/blob/master/%E9%A6%96%E4%BA%91OpenAPI(v1.2).md#1describebmsgoods)
        * [2.DescribeBmsGoodsPrice](https://github.com/capitalonline/openapi/blob/master/%E9%A6%96%E4%BA%91OpenAPI(v1.2).md#2describebmsgoodsprice)
